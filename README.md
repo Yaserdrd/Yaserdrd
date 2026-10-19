@@ -36,5 +36,5 @@ For project questions, ideas, or collaboration, feel free to open an issue in th
 [![GitHub](https://img.shields.io/badge/Find_me_on-GitHub-6554A4?style=flat&logo=github&logoColor=white)](https://github.com/Yaserdrd)
 
 <p align="center">
-<img src="https://giffiles.alphacoders.com/142/142416.gif" width="340" alt="Killua Zoldyck with blue electricity">
+<img src="https://giffiles.alphacoders.com/142/142416.gif" width="500" alt="Killua Zoldyck with blue electricity">
 </p>
