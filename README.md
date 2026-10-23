@@ -33,8 +33,7 @@ Currently, I’m developing my skills in Python, machine learning, and image pro
 
 Feel free to connect on LinkedIn to discuss projects, exchange ideas, or collaborate.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/yaser-durdu-770638343) &nbsp; [![GitHub](https://img.shields.io/badge/Find_me_on-GitHub-6554A4?style=flat&logo=github&logoColor=white)](https://github.com/Yaserdrd)
-
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/yaser-durdu-770638343) &nbsp; 
 <p align="center">
 <img src="https://giffiles.alphacoders.com/142/142416.gif" width="100%" alt="Killua Zoldyck with blue electricity">
 </p>
